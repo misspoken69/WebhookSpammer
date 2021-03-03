@@ -53,7 +53,7 @@ if not url:
     exit(-1)
 un = input('Username Override (optional): ')
 if not un:
-    un = 'appendable'
+    un = 'misspoken69'
 c = input('Content to send: ')
 if not c:
     print('There is nothing I can send if you do not tell me what to send.')
