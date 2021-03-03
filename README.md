@@ -11,6 +11,9 @@ Spam messages or images with a Discord webhook.
 - Put it in and confirm it
 - Enjoy spamming, it will tell you if it worked or not.
 
+![preview](https://cdn.discordapp.com/attachments/806343766306324501/816487495029096508/WebhookSpammerTest.png)
+
+
 ## Help/Credits
 Made by Misspoken#1122, DM if you need help! :)
 ------
