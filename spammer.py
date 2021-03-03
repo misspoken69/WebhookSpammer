@@ -1,4 +1,4 @@
-// Made by Misspoken#1122! Don't skid :)
+# Made by Misspoken#1122! Don't skid :)
 
 import requests, os, time, ctypes
 
