@@ -62,3 +62,5 @@ if not sp:
     whsend(url, un, c, True)
 if sp.lower() == 'y':
     whsend(url, un, c, True)
+else:
+    whsend(url, un, c, False)
