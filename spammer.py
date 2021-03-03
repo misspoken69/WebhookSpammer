@@ -1,5 +1,7 @@
 # Made by Misspoken#1122! Don't skid :)
 
+print("Webhook Spammer made by Misspoken. Warning: Raiding or spamming for rude intent is against ToS. I am not responsible for any use of this.")
+
 import requests, os, time, ctypes
 
 def clear():
